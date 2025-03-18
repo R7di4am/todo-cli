@@ -1,17 +1,27 @@
-# Todo List App
+# ✅ Todo List App  
 
-A simple Todo List application built using Python. 
+A simple and efficient **Todo List** application built with **Python**. 🚀  
 
-## Features:
-- List all todos
-- Add a new todo
-- Edit an existing todo
-- Delete a todo
+## ✨ Features  
+✔️ List all todos 📋  
+✔️ Add a new todo ➕  
+✔️ Edit an existing todo ✏️  
+✔️ Delete a todo ❌  
 
-## Usage:
-1. Use command `1` to list all todos.
-2. Use command `2` to add a new todo.
-3. Use command `3` to delete a todo.
-4. Use command `4` to edit a todo.
+## 🛠️ How to Use  
+1️⃣ **List Todos:** Show all saved tasks.  
+2️⃣ **Add Todo:** Insert a new task into the list.  
+3️⃣ **Delete Todo:** Remove a task from the list.  
+4️⃣ **Edit Todo:** Modify an existing task.  
 
----@R7di4am---
+## 🔥 Run Locally  
+Clone the project:  
+```bash
+git clone https://github.com/R7di4am/todo-cli.git
+cd todo-cli
+python todo.py
+```
+
+---
+
+**Made with ❤️ by @R7di4am**  
